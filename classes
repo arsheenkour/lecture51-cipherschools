@@ -1,0 +1,24 @@
+#include<iostream>
+using namesapce std;
+class Student 
+{
+	public:
+		string name;
+	int mids;
+	float ends;
+	bool pre_abs;
+}
+class Vehicle
+{
+	public:
+		string car_name;
+		string tyre_name;
+		int number_of_tyres;
+		int number_of_seats;
+}
+int main()
+{
+	student a,b,c;
+	int d,e,f;
+	vehicle hyudni,suzuki,ferrari
+}
